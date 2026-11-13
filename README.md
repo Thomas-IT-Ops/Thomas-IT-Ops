@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hallo, ich bin Thomas 👋
 
-<!--
-**Thomas-IT-Ops/Thomas-IT-Ops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich befinde mich aktuell in der Umschulung zum **Fachinformatiker für Systemintegration (FISI)** am Comcave College Bielefeld und dokumentiere hier meinen technischen Lernweg sowie meine Praxisprojekte.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🏆 Zertifizierungen
+* **SAP User – Foundation Level with SAP S/4HANA 2023** – Fundierte Kenntnisse in SAP S/4HANA-Systemlandschaften, Benutzeroberflächen und unternehmensweiten Geschäftsprozessen
+
+#### 🔧 Aktuelle Schwerpunkte & Technologien
+* **Netzwerktechnik:** TCP/IP, OSI-Modell, Subnetting, VLANs, Routing & Switching
+* **Systemadministration:** Windows Server, Linux-Grundlagen, Active Directory, Virtualisierung
+* **Cloud & Infrastruktur:** Cloud-Architekturen, AWS-Grundlagen (CLF-C02)
+* **Tools & Arbeitsweise:** Git, GitHub, strukturierte IT-Dokumentation (Markdown / Obsidian), projektbasiertes Arbeiten
+
+#### 📌 Über dieses Profil
+Meine täglichen Lerninhalte, Konzepte und Skripte verwalte ich kontinuierlich und versioniert über Git. Zukünftige öffentliche Praxis- und Homelab-Projekte werden direkt hier auf diesem Profil veröffentlicht.
+
+📫 **Kontakt:** Über meine Bewerbungsunterlagen erreichbar.
